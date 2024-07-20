@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wittawat Phongphrit</h1>
-<h3 align="center">As a third-year, second-semester student with a keen interest in becoming a well-rounded developer, I've primarily focused on front-end development. Currently, I'm immersed in studying React with TypeScript, and I aspire to expand my skills to encompass back-end development as well, ultimately aiming to become a proficient full-stack developer</h3>
+<h3 align="center">As a fourth-year student with a keen interest in becoming a well-rounded developer, I've primarily focused on front-end development. Currently, I'm immersed in studying React with TypeScript, and I aspire to expand my skills to encompass back-end development as well, ultimately aiming to become a proficient full-stack developer</h3>
 
-- 🌱 I’m currently learning **Typescript, Go, AWS, Docker & Kubernetes**
+- 🌱 I’m currently learning **Typescript, Docker & Kubernetes**
 
 - ⚡ Fun fact **I consider myself a diligent and dedicated worker with a strong passion for learning and staying abreast of new technologies. I thrive on solving complex problems, particularly in the realm of technology, and I'm committed to continuous self-improvement**
 
