@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Wittawat Phongphrit</h1>
-<h3 align="center">As a fourth-year student with a keen interest in becoming a well-rounded developer, I've primarily focused on front-end development. Currently, I'm immersed in studying React with TypeScript, and I aspire to expand my skills to encompass back-end development as well, ultimately aiming to become a proficient full-stack developer</h3>
+<h3 align="center">As a fourth-year student passionate about becoming a versatile developer, I have primarily focused on front-end development. Currently, I’m diving deeper into React with TypeScript while expanding my knowledge to include back-end development. My ultimate goal is to excel as a full-stack developer.</h3>
+🌱 I’m currently exploring **TypeScript, and Docker to broaden my technical expertise.
 
-- 🌱 I’m currently learning **Typescript, Docker & Kubernetes**
-
-- ⚡ Fun fact **I consider myself a diligent and dedicated worker with a strong passion for learning and staying abreast of new technologies. I thrive on solving complex problems, particularly in the realm of technology, and I'm committed to continuous self-improvement**
+⚡ Fun fact: **I’m a hardworking and dedicated individual who loves staying up-to-date with emerging technologies. Problem-solving, especially in tech, excites me, and I’m driven by a commitment to continuous learning and personal growth.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/wat wittawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wat wittawat" height="30" width="40" /></a>
-<a href="https://instagram.com/_watwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_watwt" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/wittawat-phongphrit-b03bb42a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="Wittawat Phongphrit" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
