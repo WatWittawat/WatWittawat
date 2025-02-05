@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wittawat Phongphrit</h1>
 <h3 align="center">As a fourth-year student passionate about becoming a versatile developer, I have primarily focused on front-end development. Currently, I’m diving deeper into React with TypeScript while expanding my knowledge to include back-end development. My ultimate goal is to excel as a full-stack developer.</h3>
 
-- 🔭 I’m currently working on [Dissertation](https://tripgether-three.vercel.app/)
-
-- 🌱 I’m currently learning **TypeScript, and Docker to broaden my technical expertise.**
+- 🌱 I’m currently learning **TypeScript, Go,and Docker to broaden my technical expertise.**
 
 - ⚡ Fun fact **I’m a hardworking and dedicated individual who loves staying up-to-date with emerging technologies. Problem-solving, especially in tech, excites me, and I’m driven by a commitment to continuous learning and personal growth.**
 
