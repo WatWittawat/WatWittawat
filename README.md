@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wittawat Phongphrit</h1>
-<h3 align="center">As a fourth-year student passionate about becoming a versatile developer, I have primarily focused on front-end development. Currently, I’m diving deeper into React with TypeScript while expanding my knowledge to include back-end development. My ultimate goal is to excel as a full-stack developer.</h3>
+<h3 align="center">As a fourth-year student with a strong background in front-end development, I have always focused on building user interfaces. However, I have recently developed a deep interest in back-end development and am highly motivated to transition into this field. Currently, I am seriously studying Golang to strengthen my back-end skills and work towards becoming a well-rounded developer.</h3>
 
 - 🌱 I’m currently learning **TypeScript, Go,and Docker to broaden my technical expertise.**
 
